@@ -20,6 +20,7 @@ export enum Network {
     MantaPacific = 'manta_pacific',
     Optimism = 'optimism',
     Mantle = 'mantle',
+    Blast = 'blast'
 }
 
 export enum OrderSide {

@@ -130,6 +130,12 @@ export const CONTRACTS_ADDRESSES = {
         ElementExSwapV2: '0x9f47921d360aee0651a4f1ed2c4892b4923f9e52',
         Helper: '0x4c95419b74d420841caaad6345799522475f91d2',
         WToken: '0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8'
+    },
+    81457: {  // blast
+        ElementEx: '0x4196b39157659BF0De9ebF6E505648B7889a39cE',
+        ElementExSwapV2: '0xe29799cA0B98BA41343A4eA52Fe15ed7D5e05662',
+        Helper: '0x0FD3D35c4536134E48A6Bc05558B8D870878e119',
+        WToken: '0x4300000000000000000000000000000000000004'
     }
 }
 
@@ -155,4 +161,5 @@ export const RPC_URLS = {
     534352: 'https://rpc.scroll.io',
     169: 'https://pacific-rpc.manta.network/http',
     5000: 'https://rpc.mantle.xyz',
+    81457: 'https://rpc.blast.io'
 }
